@@ -1,0 +1,9 @@
+<option value="-1">&lt;&lt; Carrier &gt;&gt;</option>
+<option value="AIRTEL">Airtel</option>
+<option value="DOCOMO">Docomo</option>
+<option value="IDEA">Idea</option>
+<option value="RELIENCE">Relience</option>
+<option value="TATA">Tata</option>
+<option value="UNINOR">Uninor</option>
+<option value="VODAPHONE">Vodaphone</option>
+<option value="0">New Carrier....</option>

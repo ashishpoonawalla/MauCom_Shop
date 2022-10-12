@@ -1,0 +1,1 @@
+<?php header('Location: ../../store/shop.php?var1=9000900011');   ?>
